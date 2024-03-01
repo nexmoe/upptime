@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Nexmoe
     url: https://i.nexmoe.com
-  - name: Blog
+  - name: Nexmoe - Blog
     url: https://nexmoe.com
   - name: Appwrite
-    url: https://aw.xiaoshuapp.com/
+    url: https://aw.xiaoshuapp.com
   - name: xiaoshu
     url: https://xiaoshuapp.com
   - name: Lib
