@@ -7,12 +7,16 @@ sites:
     url: https://i.nexmoe.com
   - name: Nexmoe - Blog
     url: https://nexmoe.com
-  - name: Appwrite
+  - name: Shu - Appwrite
     url: https://aw.xiaoshuapp.com
-  - name: xiaoshu
+  - name: Shu - Homepage
     url: https://xiaoshuapp.com
-  - name: Lib
+  - name: Shu - Lib
     url: https://lib.xiaoshuapp.com
+  - name: Shu - Web
+    url: https://pro.xiaoshuapp.com
+  - name: RoamingCloud
+    url: https://roam.mixcm.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
