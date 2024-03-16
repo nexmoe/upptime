@@ -60,19 +60,19 @@
     "url": "https://xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/xiaoshuapp.com.ico",
     "slug": "shu-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 666,
-    "timeWeek": 345,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 307,
+    "timeDay": 414,
+    "timeWeek": 322,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 16
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://pro.xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/pro.xiaoshuapp.com.ico",
     "slug": "shu-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 305,
-    "timeWeek": 296,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 334,
+    "timeDay": 242,
+    "timeWeek": 276,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 16
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://roam.mixcm.com",
     "icon": "https://icons.duckduckgo.com/ip3/roam.mixcm.com.ico",
     "slug": "roaming-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 220,
-    "timeWeek": 318,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 295,
+    "timeDay": 202,
+    "timeWeek": 301,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 16
     }
   }
 ]
