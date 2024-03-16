@@ -96,19 +96,19 @@
     "url": "https://pro.xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/pro.xiaoshuapp.com.ico",
     "slug": "shu-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 361,
-    "timeWeek": 303,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 347,
+    "timeDay": 305,
+    "timeWeek": 296,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2024-03-16": 1
+      "2024-03-16": 12
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://roam.mixcm.com",
     "icon": "https://icons.duckduckgo.com/ip3/roam.mixcm.com.ico",
     "slug": "roaming-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 211,
-    "timeWeek": 331,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 303,
+    "timeDay": 220,
+    "timeWeek": 318,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 12
     }
   }
 ]
