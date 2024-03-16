@@ -96,10 +96,10 @@
     "url": "https://pro.xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/pro.xiaoshuapp.com.ico",
     "slug": "shu-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
@@ -107,16 +107,18 @@
     "timeWeek": 303,
     "timeMonth": 354,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "RoamingCloud",
     "url": "https://roam.mixcm.com",
     "icon": "https://icons.duckduckgo.com/ip3/roam.mixcm.com.ico",
     "slug": "roaming-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +127,8 @@
     "timeWeek": 331,
     "timeMonth": 308,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   }
 ]
