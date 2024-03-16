@@ -60,9 +60,9 @@
     "url": "https://xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/xiaoshuapp.com.ico",
     "slug": "shu-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 345,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Shu - Lib",
@@ -96,19 +98,19 @@
     "url": "https://pro.xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/pro.xiaoshuapp.com.ico",
     "slug": "shu-web",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 347,
     "timeDay": 305,
     "timeWeek": 296,
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2024-03-16": 12
+      "2024-03-16": 0
     }
   },
   {
@@ -116,19 +118,19 @@
     "url": "https://roam.mixcm.com",
     "icon": "https://icons.duckduckgo.com/ip3/roam.mixcm.com.ico",
     "slug": "roaming-cloud",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 220,
     "timeWeek": 318,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-03-16": 12
+      "2024-03-16": 0
     }
   }
 ]
