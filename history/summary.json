@@ -4,18 +4,20 @@
     "url": "https://i.nexmoe.com",
     "icon": "https://icons.duckduckgo.com/ip3/i.nexmoe.com.ico",
     "slug": "nexmoe-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4481,
-    "timeDay": 4069,
-    "timeWeek": 4459,
-    "timeMonth": 4392,
-    "timeYear": 4481,
-    "dailyMinutesDown": {}
+    "time": 4463,
+    "timeDay": 3896,
+    "timeWeek": 4367,
+    "timeMonth": 4371,
+    "timeYear": 4463,
+    "dailyMinutesDown": {
+      "2024-04-09": 0
+    }
   },
   {
     "name": "Nexmoe - Blog",
