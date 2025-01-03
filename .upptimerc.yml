@@ -11,8 +11,6 @@ sites:
     url: https://aw.xiaoshuapp.com
   - name: Shu - Homepage
     url: https://xiaoshuapp.com
-  - name: Shu - Lib
-    url: https://lib.xiaoshuapp.com
   - name: Shu - Web
     url: https://pro.xiaoshuapp.com
   - name: RoamingCloud
