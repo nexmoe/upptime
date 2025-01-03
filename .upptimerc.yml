@@ -21,6 +21,8 @@ sites:
     url: https://botab.net
   - name: GJ - Homepage - Funasr
     url: https://paraformer-admin-funasr.550w.run
+  - name: ComfyUI-sanhua
+    url: https://napi-xuwenzheng-comfy05.550w.run/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
