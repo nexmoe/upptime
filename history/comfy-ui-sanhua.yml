@@ -1,7 +1,7 @@
 url: https://napi-xuwenzheng-comfy05.550w.run/health
-status: up
-code: 200
-responseTime: 1161
-lastUpdated: 2025-01-13T23:14:17.208Z
+status: down
+code: 502
+responseTime: 1004
+lastUpdated: 2025-01-14T07:59:37.475Z
 startTime: 2025-01-03T03:27:00.503Z
 generator: Upptime <https://github.com/upptime/upptime>
