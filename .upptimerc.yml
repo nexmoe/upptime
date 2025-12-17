@@ -28,6 +28,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Nexmoe
+      href: https://nexmoe.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
