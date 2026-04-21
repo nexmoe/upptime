@@ -13,6 +13,10 @@ sites:
     url: https://vidbee.org
   - name: LM Speed
     url: https://lmspeed.net
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; Upptime/1.0)"
+      - "Accept: text/html"
+      - "Accept-Language: en-US"
   - name: GEO Checker
     url: https://geochecker.net
   - name: VidVerse
