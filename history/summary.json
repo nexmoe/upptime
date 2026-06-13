@@ -4,9 +4,9 @@
     "url": "https://nexmoe.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexmoe.com.ico",
     "slug": "nexmoe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.97%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "99.00%",
@@ -49,7 +49,8 @@
       "2026-05-24": 67,
       "2026-05-31": 266,
       "2026-06-01": 316,
-      "2026-06-08": 306
+      "2026-06-08": 306,
+      "2026-06-13": 0
     }
   },
   {
@@ -57,9 +58,9 @@
     "url": "https://xiaoshuapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/xiaoshuapp.com.ico",
     "slug": "shu-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.68%",
@@ -99,7 +100,8 @@
       "2026-04-18": 27,
       "2026-05-03": 103,
       "2026-05-16": 160,
-      "2026-05-19": 87
+      "2026-05-19": 87,
+      "2026-06-13": 0
     }
   },
   {
@@ -155,11 +157,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmspeed.net.ico",
     "slug": "lm-speed",
     "status": "up",
-    "uptime": "86.35%",
+    "uptime": "86.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "86.35%",
+    "uptimeYear": "86.40%",
     "time": 1131,
     "timeDay": 61,
     "timeWeek": 334,
